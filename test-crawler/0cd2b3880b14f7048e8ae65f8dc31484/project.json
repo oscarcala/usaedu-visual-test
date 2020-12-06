@@ -1,0 +1,15 @@
+{
+    "id": "0cd2b3880b14f7048e8ae65f8dc31484",
+    "name": "USa Edu",
+    "crawlerInput": {
+        "url": "https://www.usergioarboleda.edu.co/",
+        "browser": "chrome-selenium",
+        "method": "spiderbot",
+        "limit": 0,
+        "autopin": true,
+        "viewport": {
+            "width": 1920,
+            "height": 1080
+        }
+    }
+}
